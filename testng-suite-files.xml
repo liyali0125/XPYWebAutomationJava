@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" preserve-order="true" verbose="2" allow-return-values="true">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+        <listener class-name="util.TestReport"/>
+    </listeners>
+    <suite-files>
+        <suite-file path="testng-spacemanagement.xml"/>
+        <suite-file path="testng-mysql.xml"/>
+    </suite-files>
+</suite>

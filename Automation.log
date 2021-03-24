@@ -1,0 +1,297 @@
+2018-10-25 15:38:41,247 INFO  [Utils] Supplied authorities: 192.168.0.33:10000 
+2018-10-25 15:38:41,248 INFO  [Utils] Resolved authority: 192.168.0.33:10000 
+2018-10-25 15:38:41,433 WARN  [HiveConnection] Failed to connect to 192.168.0.33:10000 
+2018-10-25 15:49:13,668 INFO  [Utils] Supplied authorities: 192.168.0.33:10000 
+2018-10-25 15:49:13,670 INFO  [Utils] Resolved authority: 192.168.0.33:10000 
+2018-10-25 15:49:13,888 WARN  [HiveConnection] Failed to connect to 192.168.0.33:10000 
+2018-10-25 15:55:16,066 INFO  [Utils] Supplied authorities: 192.168.0.33:10000 
+2018-10-25 15:55:16,068 INFO  [Utils] Resolved authority: 192.168.0.33:10000 
+2018-10-25 15:55:16,277 WARN  [HiveConnection] Failed to connect to 192.168.0.33:10000 
+2018-10-25 16:16:35,368 INFO  [Utils] Supplied authorities: 192.168.0.33:10000 
+2018-10-25 16:16:35,372 INFO  [Utils] Resolved authority: 192.168.0.33:10000 
+2018-10-25 16:32:08,265 WARN  [NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable 
+2018-10-25 16:32:09,083 INFO  [RecoverableZooKeeper] Process identifier=hconnection-0x4d5650ae connecting to ZooKeeper ensemble=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 
+2018-10-25 16:32:09,093 INFO  [ZooKeeper] Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT 
+2018-10-25 16:32:09,093 INFO  [ZooKeeper] Client environment:host.name=DESKTOP-BE70S9D 
+2018-10-25 16:32:09,093 INFO  [ZooKeeper] Client environment:java.version=1.8.0_152 
+2018-10-25 16:32:09,093 INFO  [ZooKeeper] Client environment:java.vendor=Oracle Corporation 
+2018-10-25 16:32:09,093 INFO  [ZooKeeper] Client environment:java.home=C:\Program Files\Java\jdk1.8.0_152\jre 
+2018-10-25 16:32:09,093 INFO  [ZooKeeper] Client environment:java.class.path=C:\Users\Administrator\AppData\Local\Temp\classpath786899479.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python36\Scripts\;C:\Python36\;C:\Python27\;C:\Python27\Scripts;D:\apache-jmeter-4.0\bin;D:\Installation\curl-7.33.0-win64-nossl;D:\Applications\zookeeper-3.4.12\bin;D:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\Program Files (x86)\Common Files\NetSarang;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Fiddler;. 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\ 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:java.compiler=<NA> 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:os.name=Windows 10 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:os.arch=amd64 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:os.version=10.0 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:user.name=davieyang 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:user.home=C:\Users\Administrator 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Client environment:user.dir=D:\PaasWeb 
+2018-10-25 16:32:09,103 INFO  [ZooKeeper] Initiating client connection, connectString=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 sessionTimeout=90000 watcher=org.apache.hadoop.hbase.zookeeper.PendingWatcher@470734c3 
+2018-10-25 16:32:09,193 INFO  [ClientCnxn] Opening socket connection to server 192.168.0.33/192.168.0.33:2181. Will not attempt to authenticate using SASL (unknown error) 
+2018-10-25 16:32:09,193 INFO  [ClientCnxn] Socket connection established to 192.168.0.33/192.168.0.33:2181, initiating session 
+2018-10-25 16:32:09,243 INFO  [ClientCnxn] Session establishment complete on server 192.168.0.33/192.168.0.33:2181, sessionid = 0x26670ede7ed66c6, negotiated timeout = 60000 
+2018-10-25 16:42:46,271 WARN  [NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable 
+2018-10-25 16:42:46,926 INFO  [RecoverableZooKeeper] Process identifier=hconnection-0x4d5650ae connecting to ZooKeeper ensemble=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 
+2018-10-25 16:42:46,937 INFO  [ZooKeeper] Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT 
+2018-10-25 16:42:46,937 INFO  [ZooKeeper] Client environment:host.name=DESKTOP-BE70S9D 
+2018-10-25 16:42:46,937 INFO  [ZooKeeper] Client environment:java.version=1.8.0_152 
+2018-10-25 16:42:46,937 INFO  [ZooKeeper] Client environment:java.vendor=Oracle Corporation 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:java.home=C:\Program Files\Java\jdk1.8.0_152\jre 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:java.class.path=C:\Users\Administrator\AppData\Local\Temp\classpath809748656.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python36\Scripts\;C:\Python36\;C:\Python27\;C:\Python27\Scripts;D:\apache-jmeter-4.0\bin;D:\Installation\curl-7.33.0-win64-nossl;D:\Applications\zookeeper-3.4.12\bin;D:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\Program Files (x86)\Common Files\NetSarang;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Fiddler;. 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\ 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:java.compiler=<NA> 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:os.name=Windows 10 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:os.arch=amd64 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:os.version=10.0 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:user.name=davieyang 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:user.home=C:\Users\Administrator 
+2018-10-25 16:42:46,938 INFO  [ZooKeeper] Client environment:user.dir=D:\PaasWeb 
+2018-10-25 16:42:46,939 INFO  [ZooKeeper] Initiating client connection, connectString=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 sessionTimeout=90000 watcher=org.apache.hadoop.hbase.zookeeper.PendingWatcher@470734c3 
+2018-10-25 16:42:47,042 INFO  [ClientCnxn] Opening socket connection to server 192.168.0.32/192.168.0.32:2181. Will not attempt to authenticate using SASL (unknown error) 
+2018-10-25 16:42:47,044 INFO  [ClientCnxn] Socket connection established to 192.168.0.32/192.168.0.32:2181, initiating session 
+2018-10-25 16:42:47,114 INFO  [ClientCnxn] Session establishment complete on server 192.168.0.32/192.168.0.32:2181, sessionid = 0x1669e80817b1530, negotiated timeout = 60000 
+2018-10-25 16:42:47,498 INFO  [RecoverableZooKeeper] Process identifier=hconnection-0x3eb77ea8 connecting to ZooKeeper ensemble=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 
+2018-10-25 16:42:47,499 INFO  [ZooKeeper] Initiating client connection, connectString=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 sessionTimeout=90000 watcher=org.apache.hadoop.hbase.zookeeper.PendingWatcher@7b8b43c7 
+2018-10-25 16:42:49,782 INFO  [ClientCnxn] Opening socket connection to server 192.168.0.34/192.168.0.34:2181. Will not attempt to authenticate using SASL (unknown error) 
+2018-10-25 16:42:49,782 INFO  [ClientCnxn] Socket connection established to 192.168.0.34/192.168.0.34:2181, initiating session 
+2018-10-25 16:42:49,782 INFO  [ClientCnxn] Session establishment complete on server 192.168.0.34/192.168.0.34:2181, sessionid = 0x36670ede7f16741, negotiated timeout = 60000 
+2018-10-25 16:43:37,334 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=47396 ms ago, cancelled=false, msg=dpaas32 row 'test,,' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 16:43:49,649 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=59713 ms ago, cancelled=false, msg=dpaas32 row 'test,,' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 16:57:13,325 WARN  [NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable 
+2018-10-25 16:57:13,447 ERROR [Shell] Failed to locate the winutils binary in the hadoop binary path 
+java.io.IOException: Could not locate executable null\bin\winutils.exe in the Hadoop binaries.
+	at org.apache.hadoop.util.Shell.getQualifiedBinPath(Shell.java:355)
+	at org.apache.hadoop.util.Shell.getWinUtilsPath(Shell.java:370)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:363)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.security.Groups.parseStaticMapping(Groups.java:93)
+	at org.apache.hadoop.security.Groups.<init>(Groups.java:77)
+	at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:240)
+	at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:225)
+	at org.apache.hadoop.hbase.security.UserProvider.<clinit>(UserProvider.java:56)
+	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:214)
+	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:119)
+	at HbaseVerification.connectHbaase(HbaseVerification.java:52)
+	at Test_HDFSService.test_HDFSService(Test_HDFSService.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+2018-10-25 16:57:14,087 INFO  [RecoverableZooKeeper] Process identifier=hconnection-0x3012646b connecting to ZooKeeper ensemble=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:host.name=DESKTOP-BE70S9D 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:java.version=1.8.0_152 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:java.vendor=Oracle Corporation 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:java.home=C:\Program Files\Java\jdk1.8.0_152\jre 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:java.class.path=C:\Users\Administrator\AppData\Local\Temp\classpath422961738.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python36\Scripts\;C:\Python36\;C:\Python27\;C:\Python27\Scripts;D:\apache-jmeter-4.0\bin;D:\Installation\curl-7.33.0-win64-nossl;D:\Applications\zookeeper-3.4.12\bin;D:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\Program Files (x86)\Common Files\NetSarang;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Fiddler;. 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\ 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:java.compiler=<NA> 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:os.name=Windows 10 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:os.arch=amd64 
+2018-10-25 16:57:14,094 INFO  [ZooKeeper] Client environment:os.version=10.0 
+2018-10-25 16:57:14,095 INFO  [ZooKeeper] Client environment:user.name=davieyang 
+2018-10-25 16:57:14,095 INFO  [ZooKeeper] Client environment:user.home=C:\Users\Administrator 
+2018-10-25 16:57:14,095 INFO  [ZooKeeper] Client environment:user.dir=D:\PaasWeb 
+2018-10-25 16:57:14,095 INFO  [ZooKeeper] Initiating client connection, connectString=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 sessionTimeout=90000 watcher=org.apache.hadoop.hbase.zookeeper.PendingWatcher@17f62e33 
+2018-10-25 16:57:14,170 INFO  [ClientCnxn] Opening socket connection to server 192.168.0.33/192.168.0.33:2181. Will not attempt to authenticate using SASL (unknown error) 
+2018-10-25 16:57:14,172 INFO  [ClientCnxn] Socket connection established to 192.168.0.33/192.168.0.33:2181, initiating session 
+2018-10-25 16:57:14,178 INFO  [ClientCnxn] Session establishment complete on server 192.168.0.33/192.168.0.33:2181, sessionid = 0x26670ede7ed66ef, negotiated timeout = 60000 
+2018-10-25 16:58:02,431 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=47691 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 16:58:14,747 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=60007 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 16:58:37,163 INFO  [RpcRetryingCaller] Call exception, tries=12, retries=35, started=82423 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 16:58:59,621 INFO  [RpcRetryingCaller] Call exception, tries=13, retries=35, started=104881 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 16:59:22,111 INFO  [RpcRetryingCaller] Call exception, tries=14, retries=35, started=127370 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 16:59:44,573 INFO  [RpcRetryingCaller] Call exception, tries=15, retries=35, started=149833 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 17:00:06,849 INFO  [RpcRetryingCaller] Call exception, tries=16, retries=35, started=172109 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 17:00:29,216 INFO  [RpcRetryingCaller] Call exception, tries=17, retries=35, started=194476 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 17:00:51,817 INFO  [RpcRetryingCaller] Call exception, tries=18, retries=35, started=217077 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 17:01:14,269 INFO  [RpcRetryingCaller] Call exception, tries=19, retries=35, started=239529 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 17:01:36,650 INFO  [RpcRetryingCaller] Call exception, tries=20, retries=35, started=261910 ms ago, cancelled=false, msg=java.net.UnknownHostException: dpaas32  
+2018-10-25 17:03:32,750 WARN  [NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable 
+2018-10-25 17:03:32,850 ERROR [Shell] Failed to locate the winutils binary in the hadoop binary path 
+java.io.IOException: Could not locate executable null\bin\winutils.exe in the Hadoop binaries.
+	at org.apache.hadoop.util.Shell.getQualifiedBinPath(Shell.java:355)
+	at org.apache.hadoop.util.Shell.getWinUtilsPath(Shell.java:370)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:363)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.security.Groups.parseStaticMapping(Groups.java:93)
+	at org.apache.hadoop.security.Groups.<init>(Groups.java:77)
+	at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:240)
+	at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:225)
+	at org.apache.hadoop.hbase.security.UserProvider.<clinit>(UserProvider.java:56)
+	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:214)
+	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:119)
+	at HbaseVerification.connectHbaase(HbaseVerification.java:48)
+	at Test_HDFSService.test_HDFSService(Test_HDFSService.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+2018-10-25 17:03:33,383 INFO  [RecoverableZooKeeper] Process identifier=hconnection-0x41a0aa7d connecting to ZooKeeper ensemble=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:host.name=DESKTOP-BE70S9D 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:java.version=1.8.0_152 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:java.vendor=Oracle Corporation 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:java.home=C:\Program Files\Java\jdk1.8.0_152\jre 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:java.class.path=C:\Users\Administrator\AppData\Local\Temp\classpath1044914660.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python36\Scripts\;C:\Python36\;C:\Python27\;C:\Python27\Scripts;D:\apache-jmeter-4.0\bin;D:\Installation\curl-7.33.0-win64-nossl;D:\Applications\zookeeper-3.4.12\bin;D:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\Program Files (x86)\Common Files\NetSarang;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Fiddler;. 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\ 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:java.compiler=<NA> 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:os.name=Windows 10 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:os.arch=amd64 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:os.version=10.0 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:user.name=davieyang 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:user.home=C:\Users\Administrator 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Client environment:user.dir=D:\PaasWeb 
+2018-10-25 17:03:33,393 INFO  [ZooKeeper] Initiating client connection, connectString=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 sessionTimeout=90000 watcher=org.apache.hadoop.hbase.zookeeper.PendingWatcher@58cbafc2 
+2018-10-25 17:03:33,473 INFO  [ClientCnxn] Opening socket connection to server 192.168.0.33/192.168.0.33:2181. Will not attempt to authenticate using SASL (unknown error) 
+2018-10-25 17:03:33,483 INFO  [ClientCnxn] Socket connection established to 192.168.0.33/192.168.0.33:2181, initiating session 
+2018-10-25 17:03:33,493 INFO  [ClientCnxn] Session establishment complete on server 192.168.0.33/192.168.0.33:2181, sessionid = 0x26670ede7ed66f9, negotiated timeout = 60000 
+2018-10-25 17:04:21,327 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=47533 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:04:34,256 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=60462 ms ago, cancelled=true, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:05:21,117 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=46406 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:05:33,437 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=58726 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:06:18,858 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=45211 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:06:31,170 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=57523 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:07:16,621 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=45151 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:07:28,935 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=57465 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:08:14,467 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=45030 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:08:26,812 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=57375 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:09:13,021 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=45200 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:09:25,358 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=57537 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:10:14,692 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=47317 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:10:27,028 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=59653 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:11:18,398 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=47328 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:11:30,753 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=59683 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:12:28,101 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=47302 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:12:40,439 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=59640 ms ago, cancelled=false, msg=dpaas32 row 'test,,99999999999999' on table 'hbase:meta' at region=hbase:meta,,1.1588230740, hostname=dpaas32,16020,1540455526359, seqNum=0 
+2018-10-25 17:15:16,177 WARN  [NativeCodeLoader] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable 
+2018-10-25 17:15:16,302 ERROR [Shell] Failed to locate the winutils binary in the hadoop binary path 
+java.io.IOException: Could not locate executable null\bin\winutils.exe in the Hadoop binaries.
+	at org.apache.hadoop.util.Shell.getQualifiedBinPath(Shell.java:355)
+	at org.apache.hadoop.util.Shell.getWinUtilsPath(Shell.java:370)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:363)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:78)
+	at org.apache.hadoop.security.Groups.parseStaticMapping(Groups.java:93)
+	at org.apache.hadoop.security.Groups.<init>(Groups.java:77)
+	at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:240)
+	at org.apache.hadoop.security.Groups.getUserToGroupsMappingService(Groups.java:225)
+	at org.apache.hadoop.hbase.security.UserProvider.<clinit>(UserProvider.java:56)
+	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:214)
+	at org.apache.hadoop.hbase.client.ConnectionFactory.createConnection(ConnectionFactory.java:119)
+	at HbaseVerification.connectHbaase(HbaseVerification.java:47)
+	at Test_HDFSService.test_HDFSService(Test_HDFSService.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+	at org.testng.TestNG.runSuites(TestNG.java:1049)
+	at org.testng.TestNG.run(TestNG.java:1017)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+2018-10-25 17:15:16,832 INFO  [RecoverableZooKeeper] Process identifier=hconnection-0x41a0aa7d connecting to ZooKeeper ensemble=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:zookeeper.version=3.4.13-2d71af4dbe22557fda74f9a9b4309b15a7487f03, built on 06/29/2018 00:39 GMT 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:host.name=DESKTOP-BE70S9D 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:java.version=1.8.0_152 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:java.vendor=Oracle Corporation 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:java.home=C:\Program Files\Java\jdk1.8.0_152\jre 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:java.class.path=C:\Users\Administrator\AppData\Local\Temp\classpath1197833508.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:java.library.path=C:\Program Files\Java\jdk1.8.0_152\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python36\Scripts\;C:\Python36\;C:\Python27\;C:\Python27\Scripts;D:\apache-jmeter-4.0\bin;D:\Installation\curl-7.33.0-win64-nossl;D:\Applications\zookeeper-3.4.12\bin;D:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_152\bin;C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\Program Files (x86)\Common Files\NetSarang;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\Administrator\AppData\Local\Programs\Fiddler;. 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\ 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:java.compiler=<NA> 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:os.name=Windows 10 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:os.arch=amd64 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:os.version=10.0 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:user.name=davieyang 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:user.home=C:\Users\Administrator 
+2018-10-25 17:15:16,842 INFO  [ZooKeeper] Client environment:user.dir=D:\PaasWeb 
+2018-10-25 17:15:16,844 INFO  [ZooKeeper] Initiating client connection, connectString=192.168.0.32:2181,192.168.0.33:2181,192.168.0.34:2181 sessionTimeout=90000 watcher=org.apache.hadoop.hbase.zookeeper.PendingWatcher@58cbafc2 
+2018-10-25 17:15:16,910 INFO  [ClientCnxn] Opening socket connection to server 192.168.0.32/192.168.0.32:2181. Will not attempt to authenticate using SASL (unknown error) 
+2018-10-25 17:15:16,920 INFO  [ClientCnxn] Socket connection established to 192.168.0.32/192.168.0.32:2181, initiating session 
+2018-10-25 17:15:16,920 INFO  [ClientCnxn] Session establishment complete on server 192.168.0.32/192.168.0.32:2181, sessionid = 0x1669e80817b155e, negotiated timeout = 60000 
+2018-10-25 17:15:17,207 INFO  [ConnectionManager$HConnectionImplementation] Closing zookeeper sessionid=0x1669e80817b155e 
+2018-10-25 17:15:17,207 INFO  [ZooKeeper] Session: 0x1669e80817b155e closed 
+2018-10-25 17:15:17,207 INFO  [ClientCnxn] EventThread shut down for session: 0x1669e80817b155e 
+2018-10-25 17:15:55,833 INFO  [RpcRetryingCaller] Call exception, tries=10, retries=35, started=38321 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:16:05,857 INFO  [RpcRetryingCaller] Call exception, tries=11, retries=35, started=48345 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:16:25,997 INFO  [RpcRetryingCaller] Call exception, tries=12, retries=35, started=68485 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:16:46,092 INFO  [RpcRetryingCaller] Call exception, tries=13, retries=35, started=88580 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:17:06,196 INFO  [RpcRetryingCaller] Call exception, tries=14, retries=35, started=108684 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:17:26,381 INFO  [RpcRetryingCaller] Call exception, tries=15, retries=35, started=128869 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:17:46,387 INFO  [RpcRetryingCaller] Call exception, tries=16, retries=35, started=148875 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:18:06,522 INFO  [RpcRetryingCaller] Call exception, tries=17, retries=35, started=169010 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:18:26,626 INFO  [RpcRetryingCaller] Call exception, tries=18, retries=35, started=189114 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:18:46,660 INFO  [RpcRetryingCaller] Call exception, tries=19, retries=35, started=209148 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:19:06,740 INFO  [RpcRetryingCaller] Call exception, tries=20, retries=35, started=229228 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:19:26,885 INFO  [RpcRetryingCaller] Call exception, tries=21, retries=35, started=249373 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:19:47,002 INFO  [RpcRetryingCaller] Call exception, tries=22, retries=35, started=269490 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:20:07,144 INFO  [RpcRetryingCaller] Call exception, tries=23, retries=35, started=289632 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:20:27,221 INFO  [RpcRetryingCaller] Call exception, tries=24, retries=35, started=309709 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:20:47,265 INFO  [RpcRetryingCaller] Call exception, tries=25, retries=35, started=329753 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:21:07,312 INFO  [RpcRetryingCaller] Call exception, tries=26, retries=35, started=349800 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:21:27,382 INFO  [RpcRetryingCaller] Call exception, tries=27, retries=35, started=369870 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:21:47,568 INFO  [RpcRetryingCaller] Call exception, tries=28, retries=35, started=390056 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:22:07,602 INFO  [RpcRetryingCaller] Call exception, tries=29, retries=35, started=410090 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:22:27,738 INFO  [RpcRetryingCaller] Call exception, tries=30, retries=35, started=430226 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:22:47,916 INFO  [RpcRetryingCaller] Call exception, tries=31, retries=35, started=450404 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:23:08,074 INFO  [RpcRetryingCaller] Call exception, tries=32, retries=35, started=470562 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:23:28,114 INFO  [RpcRetryingCaller] Call exception, tries=33, retries=35, started=490602 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  
+2018-10-25 17:23:48,236 INFO  [RpcRetryingCaller] Call exception, tries=34, retries=35, started=510724 ms ago, cancelled=false, msg=org.apache.hadoop.hbase.DoNotRetryIOException: Connection was closed while trying to get master  

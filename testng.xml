@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/Projects/JavaPrograms/com.davieyang.uiautomationbyjava/src/test/java/testscript">
+        <classes>
+            <class name="testscript.Demo_How_to_use_TestReport">
+                <methods>
+                    <include name="testDemo"/>
+                    <include name="testDemo1"/>
+                    <include name="testDemo2"/>
+                    <include name="testDemo3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+</suite>
