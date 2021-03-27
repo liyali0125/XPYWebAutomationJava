@@ -32,7 +32,7 @@ public class Demo_Compatibility_Testing {
     @Parameters( { "webSite" })
     public void setUp_InternetExplorerDriver(String webSite) throws Exception {
         //.\\lib\\IEDriverServer.exe  是lib目录下的驱动
-        System.setProperty("webdriver.ie.driver", ".\\lib\\IEDriverServer.exe");
+        System.setProperty("webdriver.ie.driver", ".\\browserdriver\\IEDriverServer.exe");
         DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
         capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS,
         true);
